@@ -1,0 +1,9 @@
+[submodule "task"]
+	path = task
+	url = git@github.com:arcan1s/qtadds-taskadds-qprocess.git
+[submodule "language"]
+	path = language
+	url = git@github.com:arcan1s/qtadds-language.git
+[submodule "pdebug"]
+	path = pdebug
+	url = git@github.com:arcan1s/qtadds-pdebug.git
